@@ -53,7 +53,7 @@ mvn spring-boot:run
 
 Alternatively, run the JAR file:
 ```bash
-java -jar target/order-service-1.0.0.jar
+java -jar target/order-service.jar
 ```
 
 #### **4. Run with Docker Compose**
