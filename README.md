@@ -35,7 +35,7 @@ The **Order Service** is a Spring Boot microservice designed for managing stock 
 
 #### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-repo/order-service.git
+git clone https://github.com/serdardundar/stock-order-service
 cd order-service
 ```
 
